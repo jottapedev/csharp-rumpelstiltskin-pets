@@ -1,29 +1,35 @@
-# csharp-rumpelstiltskin-pets
-Sistema de vendas em C# para a loja de pets exóticos Rumpelstiltskin, com controle de estoque e cálculo de preços de mafagafos filhotes, adultos e grávidos.
+loja-mafagafos
+Sistema de vendas para loja de pets exóticos Rumpelstiltskin - Windows Forms
 
-🐾 Loja Rumpelstiltskin
-Sistema de vendas desenvolvido em C# com Windows Forms para a loja de pets exóticos Rumpelstiltskin.
+🐾 Rumpelstiltskin - Sistema de Vendas
+Sistema desktop desenvolvido em C# com Windows Forms para controle de vendas e estoque da loja de pets exóticos Rumpelstiltskin.
 📋 Sobre o projeto
-O programa calcula o total de compras de mafagafos, com controle de estoque e regras de desconto por quantidade.
-🐣 Tipos de mafagafo
-TipoPreçoDescontoFilhoteR$ 1.000,007% acima de 14 unidadesAdultoR$ 1.000,007% acima de 7 unidadesGrávidoR$ 1.500,00 (+50%)Sem desconto
-📦 Estoque inicial
+Projeto desenvolvido na ETEC durante o curso de Desenvolvimento de Sistemas. O sistema permite comprar mafagafos de 3 tipos diferentes, aplicando descontos por quantidade e controlando o estoque disponível em tempo real.
+⚙️ Funcionalidades
 
-Filhotes: 7.000
-Adultos: 20.300
-Grávidos: 700
+Compra de mafagafos filhotes, adultos e grávidos
+Controle de estoque atualizado a cada venda
+Aplicação automática de desconto por quantidade
+Geração de comprovante detalhado da compra
+Exibição do total geral a pagar
 
-🖥️ Funcionalidades
+🧮 Lógica de cálculo
+Filhote  = quantidade × R$ 1.000  | desconto 7% acima de 14 unidades
+Adulto   = quantidade × R$ 1.000  | desconto 7% acima de 7 unidades
+Grávido  = quantidade × R$ 1.500  | sem desconto (50% mais caro)
 
-Controle de estoque por tipo de mafagafo
-Cálculo automático de desconto por quantidade
-Comprovante detalhado da compra
-Atualização do estoque após cada venda
+Total = total filhotes + total adultos + total grávidos
+🛠️ Tecnologias utilizadas
 
-🛠️ Tecnologias
+Linguagem: C#
+Framework: .NET Framework (Windows Forms)
+IDE: SharpDevelop
 
-C# — Windows Forms
-SharpDevelop
+🚀 Como executar
 
-📚 Contexto
-Projeto desenvolvido como exercício escolar na ETEC.
+Abra o arquivo Exercicio4.sln no SharpDevelop ou Visual Studio
+Compile o projeto (F5 ou menu Build)
+Execute o arquivo gerado em bin/Debug/
+
+
+Requisito: Windows com .NET Framework instalado
