@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\ETEC\SHARPDEVELOP\Aula2_JC\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\ETEC\SHARPDEVELOP\Aula2_JC\Exercicio3\Exercicio3\obj\Debug\Exercicio3.MainForm.resources
+C:\Users\Administrator\Documents\ETEC\SHARPDEVELOP\Aula2_JC\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\ETEC\SHARPDEVELOP\Aula2_JC\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe
+C:\Users\Administrator\Documents\ETEC\SHARPDEVELOP\Aula2_JC\Exercicio3\Exercicio3\bin\Debug\Exercicio3.pdb
+C:\Users\Administrator\Documents\ETEC\SHARPDEVELOP\Aula2_JC\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+C:\Users\Administrator\Documents\ETEC\SHARPDEVELOP\Aula2_JC\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb
